@@ -389,3 +389,58 @@
     letter-spacing: normal;
     margin-top: -4px;
 }
+.sustain-section{
+    background-image: url(../images2/APC9.jpg);
+    /* border: 1px solid blue; */
+    margin-top: 25px;
+    /* padding: 5px; */
+}
+.sustain-flex{
+    display: flex;
+    border: 1px solid red;
+    width: 75%;
+    margin: auto;
+}
+.sustain-text{
+    /* border: 1px solid white? */
+}
+.vertical-line{
+    border-right: 1px solid #fff;
+    padding-right: 23px;
+}
+.sustain-text, .vertical-line h4{
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+}
+.sustain-text, .vertical-line h1{
+    font-size: 40px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+}
+.sustain-text, .vertical-line p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: 18px;
+}
+.sustain-text, .vertical-line h5{
+    color: white;
+}
+.fa-arrow-right{
+    color: #fff;
+}
+hr{
+    color: #fff;
+}
