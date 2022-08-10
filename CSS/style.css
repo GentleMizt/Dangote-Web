@@ -454,8 +454,19 @@
 .sustain-img-flex{
     display: flex;
     flex-wrap: wrap;
-
+}
+.ov-cont{
+    flex-basis: 23%;
 }
 .smallsized-img{
     border: 1px solid #fff;
+    border-radius: 10px;
+}
+.smallsized-img img{
+    width: 65%;
+    margin-left: 14px;
+    padding: 5px 0;
+}
+.margin-right{
+    margin-right: 10px;
 }
