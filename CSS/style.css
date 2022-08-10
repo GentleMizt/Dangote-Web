@@ -402,13 +402,14 @@
     margin: auto;
 }
 .sustain-text{
-    /* border: 1px solid white? */
+    /* border: 1px solid white; */
+    flex-basis: 50%;
 }
 .vertical-line{
     border-right: 1px solid #fff;
-    padding-right: 23px;
+    padding-right: 15px;
 }
-.sustain-text, .vertical-line h4{
+.sustain-text h4{
     font-size: 16px;
     font-weight: normal;
     font-stretch: normal;
@@ -425,6 +426,8 @@
     line-height: normal;
     letter-spacing: normal;
     color: #fff;
+    border: 1px solid yellow;
+    width: 100%;
 }
 .sustain-text, .vertical-line p{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -441,6 +444,18 @@
 .fa-arrow-right{
     color: #fff;
 }
-hr{
+/* hr{
     color: #fff;
+} */
+.sustain-img{
+    border: 1px solid blue;
+    margin-left: 10px;
+}
+.sustain-img-flex{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.smallsized-img{
+    border: 1px solid #fff;
 }
