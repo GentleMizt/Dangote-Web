@@ -469,10 +469,10 @@
 }
 .margin-right{
     margin-right: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 .smallsized-img-text p{
     font-size: 10px;
-    text-align: center;
-    border: 1px solid red;
+    /* text-align: center; */
+    /* border: 1px solid red; */
 }
