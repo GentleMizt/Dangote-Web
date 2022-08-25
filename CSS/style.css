@@ -453,6 +453,7 @@
 .sustain-img-flex{
     display: flex;
     flex-wrap: wrap;
+    padding-left: 30px;
 }
 .ov-cont{
     flex-basis: 23%;
@@ -468,7 +469,10 @@
 }
 .margin-right{
     margin-right: 10px;
+    /* margin-bottom: 10px; */
 }
 .smallsized-img-text p{
-    font-size: 14px;
+    font-size: 10px;
+    text-align: center;
+    border: 1px solid red;
 }
