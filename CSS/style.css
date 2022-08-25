@@ -479,3 +479,6 @@
     /* text-align: center; */
     /* border: 1px solid red; */
 }
+.smallsized-img-text .env{
+    font-size: 9px;
+}
