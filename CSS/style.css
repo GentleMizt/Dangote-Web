@@ -397,13 +397,13 @@
 }
 .sustain-flex{
     display: flex;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 75%;
     margin: auto;
     padding-top: 10px;
 }
 .sustain-text{
-    border: 1px solid white;
+    /* border: 1px solid white; */
     flex-basis: 55%;
 }
 .vertical-line{
@@ -427,7 +427,7 @@
     line-height: normal;
     letter-spacing: normal;
     color: #fff;
-    border: 1px solid yellow;
+    /* border: 1px solid yellow; */
 }
 .sustain-text, .vertical-line p{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
