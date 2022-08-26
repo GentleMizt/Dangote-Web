@@ -485,5 +485,12 @@
     font-size: 9px;
 }
 .impact-div{
-    background-image: url(../images2/APC10.jpg);
+    background-image: url(../images2/APC2.jpg);
+}
+.impact-heading{
+    display: flex;
+}
+.impact-div .impact-content .impact-heading h3{
+    font-size: 16px;
+    font-weight: 800;
 }
