@@ -393,7 +393,8 @@
     background-image: url(../images2/APC9.jpg);
     /* border: 1px solid blue; */
     margin-top: 25px;
-    padding: 50px;
+    padding: 80px;
+    margin-bottom: 20px;
 }
 .sustain-flex{
     display: flex;
@@ -420,7 +421,7 @@
     color: #fff;
 }
 .sustain-text, .vertical-line h1{
-    font-size: 34px;
+    font-size: 32px;
     font-weight: 900;
     font-style: normal;
     font-stretch: normal;
@@ -483,6 +484,6 @@
 .smallsized-img-text .env{
     font-size: 9px;
 }
-.impact-img{
+.impact-div{
     background-image: url(../images2/APC10.jpg);
 }
