@@ -493,4 +493,12 @@
 .impact-div .impact-content .impact-heading h3{
     font-size: 16px;
     font-weight: 800;
+    color: #100d5c; 
+    padding-top: 5px;
+}
+.impact-img{
+    margin-left: 5px;
+}
+.impact-div .impact-content .impact-heading .impact-img img{
+    width: 70%;
 }
