@@ -486,6 +486,21 @@
 }
 .impact-div{
     background-image: url(../images2/APC2.jpg);
+    margin-left: 45px;
+    padding: 50px;
+    border: 1px solid blue;
+    width: 90%;
+    margin: auto;
+}
+.impact-content{
+    background-color: #fff;
+    padding: 90px;
+    border: 1px solid red;
+    margin-left: -15px;
+    width: 50%;
+    margin-top: 15px;
+    
+    
 }
 .impact-heading{
     display: flex;
@@ -501,4 +516,11 @@
 }
 .impact-div .impact-content .impact-heading .impact-img img{
     width: 70%;
+}
+.impact-text h3{
+    color: #100d5c;
+    font-weight: 750;
+}
+.impact-text .span-h3{
+    color: #e70034;
 }
